@@ -1,0 +1,2 @@
+learning git hub
+clone the remore repo to local machine
